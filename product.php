@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>SpicyX | Product</title>
+  <title>SpicyX | Products list</title>
   <?php include ('include/meta.php') ?>
 </head>
 
