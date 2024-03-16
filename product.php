@@ -2,8 +2,8 @@
 <html lang="en">
 
 <head>
-  <title>SpicyX | Products</title>
-  <?php include('include/meta.php') ?>
+  <title>SpicyX | Product</title>
+  <?php include ('include/meta.php') ?>
 </head>
 
 <body>
@@ -21,7 +21,7 @@
   <!-- END SCROLL TOP BUTTON -->
 
   <!-- Start header section -->
-  <?php include('include/header.php'); ?>
+  <?php include ('include/header.php'); ?>
   <!-- End header section -->
 
   <!-- Start Blog banner  -->
